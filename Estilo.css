@@ -11,13 +11,16 @@ h1{
 }
 
 h2{
-    
+    text-align: center;
+    font-size: 30px;
+    color: aqua;
+    margin-top: 170px;
 }
 
 nav{
     background: rgba(0,0,0,0.7);
     width: 100%;
-    position: fixed;
+    
     z-index: 100;
     float: left;
     text-align: center;
@@ -49,3 +52,15 @@ nav ul li a {
   body{
     background-color:rgb(90, 89, 88);
   }
+
+
+img{
+    display: block;
+    margin: auto;
+    width: 700px;
+    height: 400px;
+}
+pre{
+    color: white;
+    text-align: center;
+}
