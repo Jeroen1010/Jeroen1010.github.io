@@ -67,20 +67,21 @@ pre{
 
 footer{
     background-color: black;
-    height: 300px;
+    height: 250px;
     width: 100%;
 }
 
 #Columna1{
-    display: block; 
-    text-align: left;
+    position: absolute; 
+    top: auto; 
+    left: 0%; 
     width: 33%; 
     height: 150px;
 }
 
 #Columna2{
     position: absolute; 
-    top: 900px; 
+    top: auto; 
     left: 40%; 
     width: 33%; 
     height: 150px;
@@ -88,7 +89,7 @@ footer{
 
 #Columna3{
     position: absolute; 
-    top: 900px; 
+    top: auto; 
     left: 80%; 
     width: 33%; 
     height: 150px;
