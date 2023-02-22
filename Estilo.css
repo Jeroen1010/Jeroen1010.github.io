@@ -50,7 +50,7 @@ nav ul li a {
   }
 
   body{
-    background-image: url(FOTOS/FONDO2.jpg);
+    background-image: url(FOTOS/fondogrande.jpg);
     
   }
 
@@ -125,4 +125,15 @@ form{
     text-align: center;
     padding: 20px;
     border-radius:10px;
+}
+
+#CuerpoGaleria1{
+display: inline-table;    
+}
+
+#CuerpoGaleria2{
+    
+    display: inline-table;
+    margin-left: 50%;    
+
 }
