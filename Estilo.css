@@ -128,12 +128,20 @@ form{
 }
 
 #CuerpoGaleria1{
-display: inline-table;    
+display: inline-table;
+margin-left: 20%;    
 }
 
 #CuerpoGaleria2{
     
     display: inline-table;
-    margin-left: 50%;    
+    margin-left: 30%;    
 
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
