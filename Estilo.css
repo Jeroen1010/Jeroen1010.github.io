@@ -60,6 +60,16 @@ nav ul li a {
     
   }
 
+  #Logo1{
+    position: absolute;
+    left: 200px;
+  }
+
+  #Logo2{
+    position: absolute;
+    right: 200px;
+  }
+
 
 #Portada{
     display: block;
